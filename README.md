@@ -1,7 +1,7 @@
 
 # AdonisJS + InertiaJS + Shadcn
 
-A modern starter kit for AdonisJS 5 with Inertia.js for server-side rendered single-page applications and shadcn/ui for beautiful, accessible components.
+A modern starter kit for AdonisJS 6 with Inertia.js for server-side rendered single-page applications and shadcn/ui for beautiful, accessible components.
 
 
 ## Authors
